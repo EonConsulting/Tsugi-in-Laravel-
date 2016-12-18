@@ -108,4 +108,6 @@ As the URL, and press "Launch". If all goes well, your Tsugi Laravel application
 
 You can afterwards  run the autoload command. 
 
+You will find a final work here done by Peace.However, i'm having a closer look about it to check if everything is clean.
 
+https://github.com/EonConsulting/PackageStencil/tree/master/src/EONConsulting/packagestencil/Libraries/TSUGI
