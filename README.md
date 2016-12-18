@@ -4,7 +4,7 @@ This just a show about how to set Tsugi in Laravel
 #Tsugi inLaravel 
 
 This is all about how to set Tsugi in Laravel.Note that this is donw without using no "Middleware". Any amendment is threfore welcome.
-
+We assume, your Laravel APP and the packagesetncil are all ready to receive Tsugi.
 ### Tsugi installation by using the Tsugi Application  management console. 
 
 -First install the tsugi management console from https://github.com/tsugiproject/tsugi and configure it and create all the database tables. This can be done on a completely outside of the web environment than your Laravel code.However, it does need access to the same database as your Laravel instance to set up keys, etc.By default, there will be "12345" secret key inserted and usable if you are in DEVELOPER mode.
