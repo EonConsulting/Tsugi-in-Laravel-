@@ -3,7 +3,7 @@ This just a show about how to set Tsugi in Laravel
 
 #Tsugi inLaravel 
 
-This is all about how to set Tsugi in Laravel.Note that this is donw without using no "Middleware". Any amendment is threfore welcome.
+This is all about how to set Tsugi in Laravel.Note that this is done without using no "Middleware". Any amendment is threfore welcome.
 We assume, your Laravel APP and the packagesetncil are all ready to receive Tsugi.
 ### Tsugi installation by using the Tsugi Application  management console. 
 
