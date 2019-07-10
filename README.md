@@ -63,7 +63,7 @@ class VerifyCsrfToken extends BaseVerifier
 
 ```
 
-See more details abbout CSRF protection. 
+See more details about CSRF protection. 
 https://laravel.com/docs/5.1/routing#csrf-protection
 
 ### Step 5
